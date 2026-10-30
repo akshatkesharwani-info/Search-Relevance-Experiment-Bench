@@ -1,0 +1,33 @@
+qid,type,split,query,keyword_rank,hybrid_rank,moved
+Q01,paraphrase,heldout,Nimbus Hub: link a new device,1,1,0
+Q02,exact,heldout,ERR-4113,1,1,0
+Q05,exact,heldout,ERR-4022,1,1,0
+Q06,paraphrase,heldout,Nimbus Camera: the battery drains fast,6,1,5
+Q07,name,heldout,Nimbus Hub: the network drops,2,2,0
+Q08,paraphrase,heldout,Nimbus Hub Mini: responses are slow,2,1,1
+Q09,name,heldout,Nimbus Hub Mini: reset to factory settings,1,1,0
+Q11,name,dev,Nimbus Sensor: flash a newer version,1,1,0
+Q12,exact,heldout,ERR-4155,1,1,0
+Q13,name,dev,Nimbus Gateway: wipe the configuration,1,1,0
+Q14,paraphrase,heldout,Nimbus Gateway Pro: the charge does not last,3,2,1
+Q15,exact,dev,ERR-4057,1,1,0
+Q16,exact,dev,ERR-4120,1,1,0
+Q17,exact,dev,ERR-4008,1,1,0
+Q18,paraphrase,dev,Nimbus Sensor: connect a new device,2,2,0
+Q19,exact,dev,ERR-4092,1,1,0
+Q23,paraphrase,dev,Nimbus Gateway: reset to factory settings,4,2,2
+Q24,name,dev,Nimbus Gateway Pro: reset to factory settings,1,1,0
+Q25,paraphrase,dev,Nimbus Gateway Lite: the charge does not last,6,2,4
+Q27,name,dev,Nimbus Gateway Lite: restore the defaults,1,1,0
+Q28,paraphrase,dev,Nimbus Gateway Pro: the power cell runs out quickly,2,1,1
+Q30,paraphrase,dev,Nimbus Camera: the dashboard feels laggy,2,1,1
+Q31,paraphrase,dev,Nimbus Hub: the charge does not last,3,3,0
+Q32,exact,dev,ERR-4071,1,1,0
+Q33,paraphrase,dev,Nimbus Hub Mini: responses are slow,2,1,1
+Q34,exact,dev,ERR-4134,1,1,0
+Q35,exact,dev,ERR-4169,1,1,0
+Q36,name,dev,Nimbus Camera: there is high latency,1,1,0
+Q37,paraphrase,dev,Nimbus Sensor X: flash a newer version,5,2,3
+Q38,exact,dev,ERR-4127,1,1,0
+Q39,exact,dev,ERR-4015,1,1,0
+Q40,name,dev,Nimbus Sensor X: responses are slow,1,1,0
